@@ -1,3 +1,6 @@
+*{
+    box-sizing: border-box;!important;
+}
 .fon{
     background-color: #EEF2F5;
 width: 1360px;
